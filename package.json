@@ -4,7 +4,12 @@
 	"description": "sidebar navigation example using react and react-fontawesome",
 	"author": "awran5 <awran5@yahoo.com>",
 	"license": "MIT",
-	"keywords": [ "react", "fontawesome", "sidebar", "navigation" ],
+	"keywords": [
+		"react",
+		"fontawesome",
+		"sidebar",
+		"navigation"
+	],
 	"main": "src/index.js",
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "1.2.26",
@@ -21,5 +26,10 @@
 		"test": "react-scripts test --env=jsdom",
 		"eject": "react-scripts eject"
 	},
-	"browserslist": [ ">0.2%", "not dead", "not ie <= 11", "not op_mini all" ]
+	"browserslist": [
+		">0.2%",
+		"not dead",
+		"not ie <= 11",
+		"not op_mini all"
+	]
 }
